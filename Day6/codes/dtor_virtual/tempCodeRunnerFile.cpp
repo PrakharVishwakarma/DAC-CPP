@@ -1,0 +1,2 @@
+delete ptrBase; 
+    // ptrBase = NULL; 
